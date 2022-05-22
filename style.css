@@ -1,1 +1,5 @@
-background-color: coral;
+body{
+    background-image: url("/FridayGod.gif");
+    background-repeat: repeat;
+    background-color: black;
+      }
